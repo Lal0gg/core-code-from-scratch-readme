@@ -39,7 +39,7 @@ Instrucciones:
 Algorithm Some geometry #3
 	- Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
 	
-Instrucciones:
+Instrucciones :
 	1. INICIO
 	2. Definir tipo de figura
 	3. Preguntar que figura quiere calcular su volumen.
