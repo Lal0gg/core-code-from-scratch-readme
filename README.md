@@ -1,7 +1,7 @@
 # core-code-from-scratch-readme
-
-```
 **Algorithm Pizza #1**
+```
+
 	- Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
 
 Instrucciones:
@@ -20,8 +20,10 @@ Instrucciones:
 13. FIN
 
 ```	
-```	
 **Algorithm Hot N Cold #2**
+
+```	
+
 	- Define an algorithm that is able to convert temperatures from Celsius to Fahrenheit and vice versa.
 Instrucciones:
 1. INICIO
