@@ -2,9 +2,10 @@
 **Algorithm Pizza #1**
 ```
 
-	- Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
+- Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
 
 Instrucciones:
+
 1. INICIO
 2. Definimos los ingredientes a utilizar: salsa de tomate, masa para pizza, queso mozzarella, jamón, piña.
 3. Verificar si tenemos en casa los ingredientes definidos sino ir al super a comprarlos.
@@ -24,8 +25,10 @@ Instrucciones:
 
 ```	
 
-	- Define an algorithm that is able to convert temperatures from Celsius to Fahrenheit and vice versa.
+- Define an algorithm that is able to convert temperatures from Celsius to Fahrenheit and vice versa.
+
 Instrucciones:
+
 1. INICIO
 2. Definir la temperatura y el tipo de temperatura
 3. Preguntar que temperatura quiere convertir y guardar la respuesta
@@ -43,9 +46,10 @@ Instrucciones:
 **Algorithm Some geometry #3**
 ```
 
-	- Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
+- Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
 	
 Instrucciones :
+
 1. INICIO
 2. Definir tipo de figura
 3. Preguntar que figura quiere calcular su volumen.
