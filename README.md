@@ -1,5 +1,5 @@
 # core-code-from-scratch-readme
-**Algorithm Pizza #1**
+**Algorithm Pizza 🍕 #1**
 ```
 
 - Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
@@ -21,7 +21,7 @@ Instrucciones:
 13. FIN
 
 ```	
-**Algorithm Hot N Cold #2**
+**Algorithm Hot N Cold 🥶 #2**
 
 ```	
 
@@ -43,7 +43,7 @@ Instrucciones:
 	3. Escribir el resultado
 7. FIN
 ```
-**Algorithm Some geometry #3**
+**Algorithm Some geometry 📐 #3**
 ```
 
 - Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
