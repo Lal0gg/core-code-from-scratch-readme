@@ -27,13 +27,13 @@ Instrucciones:
 	3. Preguntar que temperatura quiere convertir y guardar la respuesta
 	4. Ingresar la temperatura y guardarla 
 	5. Si la temperatura es Celcius:
-		1. Multiplicar el valor guardado por 1.8 y luego sumarle 32
-		2. Guardar el resultado
-		3. Escribir el resultado
+		a. Multiplicar el valor guardado por 1.8 y luego sumarle 32
+		b. Guardar el resultado
+		c. Escribir el resultado
 	6. Si la temperatura es Fahrenheit:
-		1. Al valor guardado le restamos 32 y por ultimo lo dividimos entre 1.8
-		2. Guardar el resultado
-		3. Escribir el resultado
+		a. Al valor guardado le restamos 32 y por ultimo lo dividimos entre 1.8
+		b. Guardar el resultado
+		c. Escribir el resultado
 	7. FIN
 		
 Algorithm Some geometry #3
@@ -45,21 +45,21 @@ Instrucciones :
 	3. Preguntar que figura quiere calcular su volumen.
 	4. Ingresa el tipo de figura y guardarla.
 	5. Si la figura es Pirámide:
-		1. Preguntamos el largo de la base de la  pirámide.
-		2. Guardamos el largo de la base de la  pirámide.
-		3. Preguntamos el ancho de la base de la  pirámide.
-		4. Guardamos el ancho de la base de la  pirámide.
-		5. Preguntamos la altura de la pirámide.
-		6. Luego  multiplicamos el largo  por el ancho por la altura por un tercio y guardamos el resultado.
-		7. Escribimos el resultado obtenido.
+		a. Preguntamos el largo de la base de la  pirámide.
+		b. Guardamos el largo de la base de la  pirámide.
+		c. Preguntamos el ancho de la base de la  pirámide.
+		d. Guardamos el ancho de la base de la  pirámide.
+		e. Preguntamos la altura de la pirámide.
+		f. Luego  multiplicamos el largo  por el ancho por la altura por un tercio y guardamos el resultado.
+		g. Escribimos el resultado obtenido.
 	6. Si la figura es Esfera:
-		1. Preguntamos el radio de la esfera.
-		2. Guardamos el radio de la esfera.
-		3. Luego elevamos al cubo el valor del radio y multiplicamos por la constante "pi" y multiplicamos por cuatro tercios y guardamos el resultado.
-		4. Escribimos el resultado obtenido.
+		a. Preguntamos el radio de la esfera.
+		b. Guardamos el radio de la esfera.
+		c. Luego elevamos al cubo el valor del radio y multiplicamos por la constante "pi" y multiplicamos por cuatro tercios y guardamos el resultado.
+		d. Escribimos el resultado obtenido.
 	7. Si la figura es Cubo:
-		1. Preguntamos el valor del lado del cubo.
-		2. Guardamos el lado del cubo.
-		3. Luego elevamos al cubo el lado del cubo y guardamos el resultado.
-		4. Escribimos el resultado obtenido.
+		a. Preguntamos el valor del lado del cubo.
+		b. Guardamos el lado del cubo.
+		c. Luego elevamos al cubo el lado del cubo y guardamos el resultado.
+		d. Escribimos el resultado obtenido.
 	8. FIN
