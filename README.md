@@ -1,6 +1,6 @@
 # core-code-from-scratch-readme
 
-Algorithm Pizza #1
+:--- Algorithm Pizza #1
 	- Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
 
 Instrucciones:
