@@ -1,25 +1,25 @@
 # core-code-from-scratch-readme
 
-:--- Algorithm Pizza #1
+**Algorithm Pizza #1**
 	- Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
 
 Instrucciones:
-	1. INICIO
-	2. Definimos los ingredientes a utilizar: salsa de tomate, masa para pizza, queso mozzarella, jamón, piña.
-	3. Verificar si tenemos en casa los ingredientes definidos sino ir al super a comprarlos.
-	4. Si compramos algunos ingredientes desempacarlos.
-	5. Si no compramos ingredientes, preparar los ingredientes.
-	6. Luego de tener preparados los ingredientes, empezamos dándole forma a la masa de circulo esparcido con el grosor al gusto.
-	7. Teniendo la masa ya en forma de circulo, dispersamos la salsa de tomate sobre la masa.
-	8. Luego ponemos queso mozzarella al gusto sobre la salsa.
-	9. Ya teniendo listo lo anterior ponemos la piña y el jamón al gusto.
-	10. Luego de tener ya lista la  pizza cruda, precalentamos el horno  a 250°F.
-	11. Ya teniendo el horno en la temperatura indicada, introducimos la pizza y horneamos por 10 minutos.
-	12. Por ultimo sacar la pizza, esperar a que enfríe lo que guste  y disfrutar.
-	13. FIN
+- INICIO
+- Definimos los ingredientes a utilizar: salsa de tomate, masa para pizza, queso mozzarella, jamón, piña.
+- Verificar si tenemos en casa los ingredientes definidos sino ir al super a comprarlos.
+- Si compramos algunos ingredientes desempacarlos.
+- Si no compramos ingredientes, preparar los ingredientes.
+- Luego de tener preparados los ingredientes, empezamos dándole forma a la masa de circulo esparcido con el grosor al gusto.
+- Teniendo la masa ya en forma de circulo, dispersamos la salsa de tomate sobre la masa.
+- Luego ponemos queso mozzarella al gusto sobre la salsa.
+- Ya teniendo listo lo anterior ponemos la piña y el jamón al gusto.
+- Luego de tener ya lista la  pizza cruda, precalentamos el horno  a 250°F.
+- Ya teniendo el horno en la temperatura indicada, introducimos la pizza y horneamos por 10 minutos.
+- Por ultimo sacar la pizza, esperar a que enfríe lo que guste  y disfrutar.
+- FIN
 	
 	
-Algorithm Hot N Cold #2
+**Algorithm Hot N Cold #2**
 	- Define an algorithm that is able to convert temperatures from Celsius to Fahrenheit and vice versa.
 Instrucciones:
 	1. INICIO
@@ -36,7 +36,7 @@ Instrucciones:
 		c. Escribir el resultado
 	7. FIN
 		
-Algorithm Some geometry #3
+**Algorithm Some geometry #3**
 	- Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
 	
 Instrucciones :
