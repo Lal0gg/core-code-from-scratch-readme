@@ -63,4 +63,3 @@ Instrucciones:
 		3. Luego elevamos al cubo el lado del cubo y guardamos el resultado.
 		4. Escribimos el resultado obtenido.
 	8. FIN
-![image](https://user-images.githubusercontent.com/78062925/203676947-8725bd9d-04e4-4f2f-a3e2-ca12a2ec35c7.png)
