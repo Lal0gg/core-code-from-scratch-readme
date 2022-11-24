@@ -1,6 +1,6 @@
 # core-code-from-scratch-readme
 **Algorithm Pizza #1**
-```
+{
 
 - Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
 
@@ -20,7 +20,7 @@ Instrucciones:
 12. Por ultimo sacar la pizza, esperar a que enfríe lo que guste  y disfrutar.
 13. FIN
 
-```	
+}	
 **Algorithm Hot N Cold #2**
 
 ```	
