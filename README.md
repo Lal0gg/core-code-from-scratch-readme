@@ -40,8 +40,9 @@ Instrucciones:
 	3. Escribir el resultado
 7. FIN
 ```
-```
 **Algorithm Some geometry #3**
+```
+
 	- Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
 	
 Instrucciones :
