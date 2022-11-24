@@ -1,5 +1,5 @@
 # core-code-from-scratch-readme
-}
+
 ```
 **Algorithm Pizza #1**
 	- Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation.
@@ -18,9 +18,9 @@ Instrucciones:
 11. Ya teniendo el horno en la temperatura indicada, introducimos la pizza y horneamos por 10 minutos.
 12. Por ultimo sacar la pizza, esperar a que enfríe lo que guste  y disfrutar.
 13. FIN
-}
+
 ```	
-	
+```	
 **Algorithm Hot N Cold #2**
 	- Define an algorithm that is able to convert temperatures from Celsius to Fahrenheit and vice versa.
 Instrucciones:
@@ -37,7 +37,8 @@ Instrucciones:
 	2. Guardar el resultado
 	3. Escribir el resultado
 7. FIN
-		
+```
+```
 **Algorithm Some geometry #3**
 	- Design an algorithm to calculate the volume of a pyramid, a cube and a sphere.
 	
@@ -65,3 +66,4 @@ Instrucciones :
 	3. Luego elevamos al cubo el lado del cubo y guardamos el resultado.
 	4. Escribimos el resultado obtenido.
 8. FIN
+```
