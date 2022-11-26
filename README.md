@@ -80,8 +80,16 @@ Instrucciones :
 
 # JUEVES 26 DE NOVIEMBRE
 
-**Numbers 📊**
+**Numbers 📊 #1**
+1. INICIO
+2. Definir un número
+3. Ingrese ún número y guardarlo
+4. Si el número que ingresú es divisible entre 2 y su residuo es 0 el número es par
+	1. Escribir el número es par
+5. De lo contrario el número es impar
+	1. Escribir el número es impar
+6. FIN
 
-**Date of birth 👧**
+**Date of birth 👧 #2**
 
-**Treasures 👑**
+**Treasures 👑 #3**
