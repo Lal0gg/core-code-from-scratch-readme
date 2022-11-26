@@ -94,8 +94,6 @@ Instrucciones :
 ![algorithm nums](https://user-images.githubusercontent.com/78062925/204070813-99e2dcf7-1f8b-4eab-aa89-657fbbd60a2e.png)
 
 
-
-
 **Date of birth 👧 #2**
 ```
 1. INICIO
@@ -117,4 +115,6 @@ Falso porque no tiene tesoro
 Por lo menos uno o dos cofres tienen tesoros
 3. Cofre "C": "Todos estos cofres tienen un tesoro"
 Un solo cofre tendrá un tesoro, luego de esto habrá dos tesoros.
+
+**R// En Cofre "A" y Cofre "C" tienen tesoros**
 ```
