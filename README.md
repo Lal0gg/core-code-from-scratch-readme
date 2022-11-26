@@ -90,6 +90,11 @@ Instrucciones :
 	1. Escribir el número es impar
 6. FIN
 
+![algorithm nums](https://user-images.githubusercontent.com/78062925/204070813-99e2dcf7-1f8b-4eab-aa89-657fbbd60a2e.png)
+
+
+
+
 **Date of birth 👧 #2**
 
 **Treasures 👑 #3**
