@@ -116,5 +116,5 @@ Por lo menos uno o dos cofres tienen tesoros
 3. Cofre "C": "Todos estos cofres tienen un tesoro"
 Un solo cofre tendrá un tesoro, luego de esto habrá dos tesoros.
 
-**R// En Cofre "A" y Cofre "C" tienen tesoros**
+**En Cofre "A" y Cofre "C" tienen tesoros**
 ```
