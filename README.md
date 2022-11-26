@@ -110,3 +110,11 @@ Instrucciones :
 10. FIN
 ```
 **Treasures 👑 #3**
+```
+1. Cofre "A": El cofre del medio tiene tesoro"
+Falso porque no tiene tesoro
+2. Cofre "B": "Todos estos cofres tienen tesoros"
+Por lo menos uno o dos cofres tienen tesoros
+3. Cofre "C": "Todos estos cofres tienen un tesoro"
+Un solo cofre tendrá un tesoro, luego de esto habrá dos tesoros.
+```
