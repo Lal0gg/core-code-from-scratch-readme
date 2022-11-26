@@ -79,3 +79,9 @@ Instrucciones :
 ```
 
 # JUEVES 26 DE NOVIEMBRE
+
+** Numbers 📊 **
+
+** Date of birth 👧 **
+
+** Treasures 👑 **
