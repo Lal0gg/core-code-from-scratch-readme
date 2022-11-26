@@ -1,4 +1,7 @@
 # core-code-from-scratch-readme
+
+#MIÉRCOLES 25 NOVIEMBRE
+
 **Algorithm Pizza 🍕 #1**
 ```
 
