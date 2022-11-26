@@ -77,3 +77,5 @@ Instrucciones :
 	4. Escribimos el resultado obtenido.
 8. FIN
 ```
+
+# JUEVES 26 DE NOVIEMBRE
