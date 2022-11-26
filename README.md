@@ -80,8 +80,8 @@ Instrucciones :
 
 # JUEVES 26 DE NOVIEMBRE
 
-** Numbers 📊 **
+**Numbers 📊**
 
-** Date of birth 👧 **
+**Date of birth 👧**
 
-** Treasures 👑 **
+**Treasures 👑**
