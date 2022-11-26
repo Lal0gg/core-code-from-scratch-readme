@@ -97,5 +97,16 @@ Instrucciones :
 
 
 **Date of birth 👧 #2**
-
+```
+1. INICIO
+2. Escribir 'Ingrese su fecha de nacimiento: '
+3. Definir fecha Como Entero
+4. Leer fecha
+5. Escribir 'Ingrese el año acutal: '
+6. Definir actual Como Entero
+7. Leer actual
+8. resultado = actual -fecha
+9. Escribir resultado
+10. FIN
+```
 **Treasures 👑 #3**
