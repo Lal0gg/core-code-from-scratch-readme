@@ -146,11 +146,24 @@ Respuesta correcta: Bob🤓
 ```
 ## PSEUDOCÓDIGO
 ```
+1. Se definen Bowl, cereal y leche
+2. Si es diferente de vacio, bowl, cereal y leche
+	a. Insertar cereal en bowl
+	b. Insertar leche en bowl
+	c. Disfrutar
+3. De lo contrario 
+	a. Encontrar bowl, leche y cereales
+	b. insertar cereal en bowl
+	c. Insertar leche en bowl
+	d. Disfrutar
+4. Fin si
 
 ```
 
 
 ## DIAGRAMA DE FLUJO
 ```
+![xd](https://user-images.githubusercontent.com/78062925/204417143-1b2956cc-41c3-458a-891b-4047fabeebb4.png)
+
 
 ```
