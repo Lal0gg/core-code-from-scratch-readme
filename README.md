@@ -120,8 +120,12 @@ Un solo cofre tendrá un tesoro, luego de esto habrá dos tesoros.
 En Cofre "A" y Cofre "C" tienen tesoros
 ```
 # LUNES 28 DE NOVIEMBRE
-
-```
 **Logic Problem**
 
+```
+Si Bob dice la verdad quiere decir que solo una persona estudió y por lo tanto se está refiriendo a el.
+Si Charlie dice la verdad quiere decir que 2 personas estudiaron y una de las demás estudió y tendría que estar diciendo la verdad pero se estarían contradiciendo.
+Si Davn y Eva dijeran la verdad se estarían contradiciendo.
+
+Respuesta correcta: Bob🤓
 ```
