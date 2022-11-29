@@ -129,3 +129,16 @@ Si Davn y Eva dijeran la verdad se estarían contradiciendo.
 
 Respuesta correcta: Bob🤓
 ```
+
+**Cereal vs Milk 🐄🥣**
+## ALGORITMO
+```
+
+```
+## PSEUDOCÓDIGO
+
+
+## DIAGRAMA DE FLUJO
+```
+
+```
