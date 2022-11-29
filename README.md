@@ -136,6 +136,9 @@ Respuesta correcta: Bob🤓
 
 ```
 ## PSEUDOCÓDIGO
+```
+
+```
 
 
 ## DIAGRAMA DE FLUJO
