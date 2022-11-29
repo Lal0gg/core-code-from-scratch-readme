@@ -133,7 +133,16 @@ Respuesta correcta: Bob🤓
 **Cereal vs Milk 🐄🥣**
 ## ALGORITMO
 ```
-
+1. INICIO
+2. Verificar si hay cereales y leche.
+3. Si hay Bowl, cereales y leche:
+	1. Introducir cereal en el bowl y luego la leche
+	2. Disfrutar
+4. Si no hay bowl, cereales y leche:
+	1. Encontrar el bowl
+	2. Ir a comprar cereales y leche
+	3. ir al paso 3 
+5. FIN
 ```
 ## PSEUDOCÓDIGO
 ```
