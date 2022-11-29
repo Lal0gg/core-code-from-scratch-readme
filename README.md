@@ -162,8 +162,7 @@ Respuesta correcta: Bob🤓
 
 
 ## DIAGRAMA DE FLUJO
-```
 ![xd](https://user-images.githubusercontent.com/78062925/204417143-1b2956cc-41c3-458a-891b-4047fabeebb4.png)
 
 
-```
+
