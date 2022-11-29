@@ -119,3 +119,9 @@ Un solo cofre tendrá un tesoro, luego de esto habrá dos tesoros.
 
 En Cofre "A" y Cofre "C" tienen tesoros
 ```
+# LUNES 28 DE NOVIEMBRE
+
+```
+**Logic Problem**
+
+```
