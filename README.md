@@ -164,5 +164,11 @@ Respuesta correcta: Bob🤓
 ## DIAGRAMA DE FLUJO
 ![xd](https://user-images.githubusercontent.com/78062925/204417143-1b2956cc-41c3-458a-891b-4047fabeebb4.png)
 
+# MARTES 29 DE NOVIEMBRE
+```
+```
 
-
+![1](https://user-images.githubusercontent.com/78062925/204678372-9d939b29-aeb2-4325-8c4d-1c74f4f3b732.png)
+```
+```
+![2](https://user-images.githubusercontent.com/78062925/204678385-47982c56-4b9c-4427-823b-a008a09f1072.png)
