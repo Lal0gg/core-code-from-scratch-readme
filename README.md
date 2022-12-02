@@ -171,3 +171,19 @@ Respuesta correcta: Bob🤓
 ![2](https://user-images.githubusercontent.com/78062925/204678385-47982c56-4b9c-4427-823b-a008a09f1072.png)
 
 # MIERCOLES 30 DE NOVIEMBRE DE 2022
+![screen](https://user-images.githubusercontent.com/78062925/205211372-d3d35444-4746-43b5-9334-b55a9cd09416.jpeg)
+
+### Pseudocódigo
+```
+Algoritmo Modgg
+	Escribir "Ingrese un número"
+	Definir numero Como Entero
+	Leer numero
+	Imprimir numero %2
+FinAlgoritmo
+```
+
+![screen3](https://user-images.githubusercontent.com/78062925/205212162-e97329cd-aff3-4688-a23a-dff0477e0c8e.png)
+![screen2](https://user-images.githubusercontent.com/78062925/205212222-d4adf980-4ade-4e58-8ff5-a987fb7666cb.png)
+
+
