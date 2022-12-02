@@ -127,7 +127,7 @@ FinAlgoritmo
 | 13. |        `~`((T `OR`  F ) `&` (F `OR`  F)) `&` F = T   | ❌|
 | 14. |       `~`((T `OR`  F ) `&` (F `OR`  F)) `&` T = F     | ❌|
 
-**Boolean Results 0️⃣`OR`1️⃣**
+**Boolean Results 0️⃣`OR`1️⃣ #2**
 ```python
 Algoritmo boolean
 	a <- 5 == 3 
@@ -146,7 +146,26 @@ FinAlgoritmo
 ```
 
 
-**Identify odd and even numbers 🔢**
+**Identify odd and even numbers 🔢 #3**
+### Pseudocódigo
+```python
+Algoritmo ParorImpar
+	Escribir "Ingrese un número"
+	Definir num Como Entero
+	Leer num
+	Si num%2 ==0 Entonces
+		Imprimir "El número: " , num, " es par."
+	SiNo
+		Imprimir "El número: " , num, " es impar."
+	Fin Si
+FinAlgoritmo
+```
+### Par 😄
+![result](https://user-images.githubusercontent.com/78062925/205227445-1dd71d38-563f-48e2-a865-e70612ac32b1.png)
+
+
+### Impar 😉
+![result2](https://user-images.githubusercontent.com/78062925/205227470-70030082-8371-4658-b366-70ca3f550891.png)
 
 
 
