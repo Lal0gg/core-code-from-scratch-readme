@@ -108,7 +108,7 @@ FinAlgoritmo
 
 # JUEVES 1 DE DICIEMBRE DE 2022
 
-**Truth tables✅ `OR` ❌**
+**Truth tables✅ `OR` ❌ #1**
 
 | No.        | Logical Operation           | Solution  |
 | ------------- |:-------------:| -----:|
@@ -126,5 +126,21 @@ FinAlgoritmo
 | 12. |         (T `OR`  F ) `&`(F `OR`  F) = T   | ❌|
 | 13. |        `~`((T `OR`  F ) `&` (F `OR`  F)) `&` F = T   | ❌|
 | 14. |       `~`((T `OR`  F ) `&` (F `OR`  F)) `&` T = F     | ❌|
+
+**Boolean Results 0️⃣`OR`1️⃣**
+```python
+Algoritmo boolean
+	a <- 5 == 3
+	b <- 4 <> 3
+	c <- 7 > 7
+	d <- 4 < 4
+	e <- 100 <= 90
+	f <- 40 >= 40
+FinAlgoritmo
+```
+
+
+**Identify odd and even numbers 🔢**
+
 
 
