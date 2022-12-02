@@ -110,19 +110,19 @@ FinAlgoritmo
 
 | No.        | Logical Operation           | Solution  |
 | ------------- |:-------------:| -----:|
-| 1 .     | T & T = T |  |
-| 2.      |   T & F = F    |    |
-| 3. |          F & T = T  | | 
-| 4. |        F & F = F    | |
-| 5. |          T OR T = T  | |
-| 6. |        T OR  F = F    | |
-| 7. |         F OR  T = T   | |
-| 8. |         F OR  F = F   | |
-| 9. |        ~T = T  | |
-| 10. |        ~F = T   | |
-| 11. |      (T & F) OR  (~F) = T     | |
-| 12. |         (T OR  F ) & (F OR  F) = T   | |
-| 13. |        ~((T OR  F ) & (F OR  F)) & F = T   | |
-| 14. |       ~((T OR  F ) & (F OR  F)) & T = F     | |
+| 1 .     | T `&` T = T |  |
+| 2.      |   T `&` F = F    |    |
+| 3. |          F `&` T = T  | | 
+| 4. |        F `&` F = F    | |
+| 5. |          T `OR` T = T  | |
+| 6. |        T `OR`  F = F    | |
+| 7. |         F `OR`  T = T   | |
+| 8. |         F `OR`  F = F   | |
+| 9. |        `~`T = T  | |
+| 10. |        `~`F = T   | |
+| 11. |      (T & F) `OR`  (~F) = T     | |
+| 12. |         (T `OR`  F ) `&`(F `OR`  F) = T   | |
+| 13. |        ~((T `OR`  F ) `&` (F `OR`  F)) `&` F = T   | |
+| 14. |       ~((T `OR`  F ) `&` (F `OR`  F)) `&` T = F     | |
 
 
