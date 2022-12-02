@@ -24,7 +24,7 @@ Respuesta correcta: Bob🤓
 5. FIN
 ```
 ## PSEUDOCÓDIGO
-```
+```python
 1. Se definen Bowl, cereal y leche
 2. Si es diferente de vacio, bowl, cereal y leche
 	a. Insertar cereal en bowl
