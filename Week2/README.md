@@ -72,7 +72,7 @@ FinAlgoritmo
 **Register form 🌍 #2** 
 
 ### Pseudocódigo
-```
+```python
 Algoritmo Form_Register
 	Definir first Como Caracter
 	Definir last Como Caracter
