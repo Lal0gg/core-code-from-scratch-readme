@@ -130,12 +130,18 @@ FinAlgoritmo
 **Boolean Results 0️⃣`OR`1️⃣**
 ```python
 Algoritmo boolean
-	a <- 5 == 3
+	a <- 5 == 3 
+	// Falso porque 5 no es igual 3
 	b <- 4 <> 3
+	// Verdadero porque 4 es diferente de 3
 	c <- 7 > 7
+	// Falso porque 7 no es mayor que 7
 	d <- 4 < 4
+	// Falso porque 4 no es mayorq que 4
 	e <- 100 <= 90
+	// Falso porque 100 no es menor o igual que 90
 	f <- 40 >= 40
+	// Veradero porque 40 es igual 40
 FinAlgoritmo
 ```
 
