@@ -45,12 +45,19 @@ FinAlgoritmo
 ```
 #### Entradas y Salidas
 **➖ RESTA ➖**
+
 ![resta](https://user-images.githubusercontent.com/78062925/205770032-059fe5fd-af40-4626-80b6-12f20680bba6.png)
+
 **✖ MULTIPLICACIÓN ✖**
+
 ![multi](https://user-images.githubusercontent.com/78062925/205770033-cb6dcbe7-dd33-45a6-8aff-6e843b426561.png)
+
 **➗ DIVISIÓN ➗**
+
 ![div](https://user-images.githubusercontent.com/78062925/205770034-509d53b2-8868-4477-a210-80f8c6781707.png)
+
 **➕ SUMA ➕**
+
 ![suma](https://user-images.githubusercontent.com/78062925/205770036-3d901097-80c5-4bf4-b531-0e9fc2162dd0.png)
 
 
