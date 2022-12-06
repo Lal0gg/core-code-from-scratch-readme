@@ -61,7 +61,7 @@ FinAlgoritmo
 ![suma](https://user-images.githubusercontent.com/78062925/205770036-3d901097-80c5-4bf4-b531-0e9fc2162dd0.png)
 
 
-**Simple Number #1**
+**Simple Number #2**
 
 *Pseudocódigo Corregido*
 
@@ -81,13 +81,16 @@ FinAlgoritmo
 
 ```
 #### Entradas y Salidas
-** SPECIAL **
+**SPECIAL**
+
 ![special](https://user-images.githubusercontent.com/78062925/205776044-b4080ed4-9214-4121-acc7-bca065637546.png)
 
-** ALMOST **
+**ALMOST**
+
 ![almost](https://user-images.githubusercontent.com/78062925/205776045-7129ce8d-d537-46c4-bb70-c09e566dd87c.png)
 
-** REGULAR **
+**REGULAR**
+
 ![regular](https://user-images.githubusercontent.com/78062925/205776046-29996009-3c13-484b-b3f9-f8ef5f722549.png)
 
 
