@@ -62,6 +62,7 @@ FinAlgoritmo
 
 
 **Simple Number #1**
+
 *Pseudocódigo Corregido*
 
 ```python
@@ -79,3 +80,19 @@ Algoritmo specialNumber
 FinAlgoritmo
 
 ```
+#### Entradas y Salidas
+** SPECIAL **
+![special](https://user-images.githubusercontent.com/78062925/205776044-b4080ed4-9214-4121-acc7-bca065637546.png)
+
+** ALMOST **
+![almost](https://user-images.githubusercontent.com/78062925/205776045-7129ce8d-d537-46c4-bb70-c09e566dd87c.png)
+
+** REGULAR **
+![regular](https://user-images.githubusercontent.com/78062925/205776046-29996009-3c13-484b-b3f9-f8ef5f722549.png)
+
+
+
+
+
+
+
