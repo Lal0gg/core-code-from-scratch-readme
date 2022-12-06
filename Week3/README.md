@@ -1,5 +1,5 @@
 # LUNES 05 DE DICIEMBRE DE 2022
-**Simple calculator📱**
+**Simple calculator📱 #1**
 
 ### Pseudocódigo
 ```python
@@ -61,3 +61,21 @@ FinAlgoritmo
 ![suma](https://user-images.githubusercontent.com/78062925/205770036-3d901097-80c5-4bf4-b531-0e9fc2162dd0.png)
 
 
+**Simple Number #1**
+*Pseudocódigo Corregido*
+
+```python
+Algoritmo specialNumber
+	Leer n
+	Si n == 100 Entonces
+		Escribir "This is a special number!"
+	SiNo
+		Si n < 1000 Y n %10 = 0 Y n<>100 Entonces
+			Escribir "This number is almost special"
+		SiNo
+			Escribir "Just a regular number"
+		Fin Si
+	Fin Si
+FinAlgoritmo
+
+```
