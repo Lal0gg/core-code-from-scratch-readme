@@ -219,7 +219,7 @@ FinAlgoritmo
 
 ![multi](https://user-images.githubusercontent.com/78062925/206828585-1c91d9dd-21dc-4374-b9d1-ef840c5ad443.png)
 
-**Simple Calculator with Do While*
+**Simple Calculator with Do While**
 
 ```python
 Algoritmo calcu
@@ -321,3 +321,36 @@ FinAlgoritmo
 
 
 **Greetings**
+
+```python
+Algoritmo Greetings
+	Definir continuar Como Cadena
+	Definir nSalud Como Entero
+	nSalud <- 0
+	continuar <- 'Si'
+	Mientras continuar == 'Si' Hacer
+		Imprimir 'Ingrese la hora actual (0-23):'
+		Leer hora
+		Si hora <= 12 Entonces
+			Imprimir 'Buenas dias!'
+		SiNo 
+			Si hora <= 18 Entonces
+				Imprimir 'Buenas tardes!'
+			SiNo
+				Imprimir 'Buenas noches!'
+			Fin Si
+		Fin Si
+		
+		nSalud <- nSalud + 1
+		
+		Imprimir 'Desea continuar ? Si/No'
+		Leer continuar
+	Fin Mientras
+	
+	Imprimir 'Cantidad de Saludos realizados: ' + ConvertirATexto(nSalud)
+FinAlgoritmo
+```
+
+**ENTRADA Y SALIDA**
+
+![greet](https://user-images.githubusercontent.com/78062925/206829395-e15bacfb-376c-4fe8-a110-cf949d3813c3.png)
