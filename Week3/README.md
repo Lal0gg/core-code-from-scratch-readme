@@ -94,8 +94,53 @@ FinAlgoritmo
 ![regular](https://user-images.githubusercontent.com/78062925/205776046-29996009-3c13-484b-b3f9-f8ef5f722549.png)
 
 
+# MARTES 06 DE DICIEMBRE DE 2022
 
+### Pseudocódigo
+```python
 
+Algoritmo calculadora
+	Definir suma Como Caracter
+	Definir resta Como Caracter
+	Definir division Como Caracter
+	Definir multi Como Caracter
+	Definir n1 Como Real
+	Definir n2 Como Real
+	Definir res Como Real
+	Definir op Como Caracter
+	Escribir "Ingrese el primer numero"
+	Leer n1
+	Escribir "Ingrese el segundo numero"
+	Leer n2
+	Escribir "¿Que opción desea realizar? ( +, * , - , /)"
+	Leer op
+	Si op == "+" Entonces
+		res = n1+n2
+		Escribir "El resultado de " , n1 ," + ", n2 ," = ", res
+	SiNo 
+		Si op == "-" Entonces
+			res = n1-n2
+			Escribir "El resultado de " , n1 ," - ", n2 ," = ", res
+		SiNo
+			Si op == "*" Entonces
+				res = n1*n2
+				Escribir "El resultado de " , n1 ," x ", n2 ," = ", res
+			SiNo
+				Si op == "/" Entonces
+					res = n1/n2
+					Escribir "El resultado de " , n1 ," / ", n2 ," = ", res
+				SiNo
+					Escribir "Ingrese una operación Correcta"
+				Fin Si
+			Fin Si
+		Fin Si
+	Fin Si
+FinAlgoritmo
+
+```
+
+**INCORRECT**
+![df](https://user-images.githubusercontent.com/78062925/206827765-8be55574-3aa4-4b35-bdfa-5bacc96e2add.png)
 
 
 
