@@ -181,11 +181,17 @@ Algoritmo option
 	Fin Segun
 FinAlgoritmo
 ```
+
 **Suma de dos numeros**
+
 ![n1](https://user-images.githubusercontent.com/78062925/206828271-68fd2ff8-7f24-47fd-bd1d-8d8c3b9f35ff.png)
 
+
 **Imprimir día de la semana**
+
 ![n2](https://user-images.githubusercontent.com/78062925/206828277-0ea1aaee-fb01-4647-b85a-7b6d305cce19.png)
 
+
 **Calcular longitud de texto**
+
 ![n3](https://user-images.githubusercontent.com/78062925/206828272-b0b6e841-af34-4de9-b4fd-4adeee3aafb6.png)
