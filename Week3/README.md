@@ -95,7 +95,7 @@ FinAlgoritmo
 
 
 # MARTES 06 DE DICIEMBRE DE 2022
-
+**Simple calculator with Switch #1**
 ### Pseudocódigo
 ```python
 
@@ -130,5 +130,62 @@ FinAlgoritmo
 
 ![a](https://user-images.githubusercontent.com/78062925/206828034-89b49648-3ffe-4fb6-b81a-dbc6cde71609.png)
 
+**Multi Option Program #2**
 
+```python
+Algoritmo option
+	Imprimir '! ! ! ! ! ! Opcion Multiple ! ! ! ! ! ! '
+	Imprimir 'Seleccione una opcion'
+	Imprimir '1. Suma de dos numeros'
+	Imprimir '2. Imprimir dia de la semana'
+	Imprimir '3. Calcular longitud de texto'
+	Imprimir 'Ingrese la opcion:'
+	Leer opcion
+	Segun opcion Hacer
+		1:
+			Imprimir 'Opcion 1. Suma de dos numeros'
+			Imprimir 'Ingrese primer numero'
+			Leer num1
+			Imprimir 'Ingrese segundo numero'
+			Leer num2
+			Imprimir 'Resultado: ' + ConvertirATexto(num1 + num2)
+		2:
+			Imprimir 'Opcion 2. Imprimir dia de la semana'
+			Imprimir 'Ingrese el dia de la semana en numeros (1-7)'
+			Leer dia
+			Segun dia Hacer
+				1:
+					Imprimir 'Lunes'
+				2:
+					Imprimir 'Martes'
+				3:
+					Imprimir 'Miercoles'
+				4:
+					Imprimir 'Jueves'
+				5:
+					Imprimir 'Viernes'
+				6:
+					Imprimir 'Sabado'
+				7:
+					Imprimir 'Domingo'
+				De Otro Modo:
+					Imprimir 'Ingrese una entrada correcta!!'
+			Fin Segun
+		3:
+			Imprimir 'Opcion 3.Calcular longitud de texto'
+			Imprimir 'Ingrese un texto'
+			Leer cadena
+			Imprimir 'Resultado: ' + ConvertirATexto(Longitud(cadena))
+		De Otro Modo:
+			Imprimir 'Opcion incorrecta!'
+	Fin Segun
+FinAlgoritmo
+```
+**Suma de dos numeros**
+![n1](https://user-images.githubusercontent.com/78062925/206828271-68fd2ff8-7f24-47fd-bd1d-8d8c3b9f35ff.png)
 
+**Imprimir día de la semana**
+![n2](https://user-images.githubusercontent.com/78062925/206828277-0ea1aaee-fb01-4647-b85a-7b6d305cce19.png)
+
+**Calcular longitud de texto**
+![n3](https://user-images.githubusercontent.com/78062925/206828272-b0b6e841-af34-4de9-b4fd-4adeee3aafb6.png)
