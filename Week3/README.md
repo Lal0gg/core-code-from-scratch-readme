@@ -259,4 +259,65 @@ FinAlgoritmo
 ![dowh](https://user-images.githubusercontent.com/78062925/206828872-3e5bc142-e8fe-4c02-ad02-aa5d797f3d13.png)
 
 
+# JUEVES 08 DE DICIEMBRE DE 2022
 
+
+**Multiplication Tables with For**
+
+
+```python
+Algoritmo MULTIFOR
+	Escribir "Ingrese la tabla: ";
+	Leer tabla;
+	Para i <- 1 Hasta 10 Hacer
+		Escribir tabla," x ", i, " = ", i*tabla;
+	FinPara
+FinAlgoritmo
+```
+
+**ENTRADA  Y SALIDA**
+
+
+![MULT](https://user-images.githubusercontent.com/78062925/206829221-54e24553-0e1d-4072-982e-29db521a8f80.png)
+
+
+**Ascending and Descending Numbers**
+
+```python
+Algoritmo num
+	Imprimir 'Ingrese un numero'
+	Leer numero
+	Imprimir 'Operaciones:'
+	Imprimir '1. Imprimir en orden Ascendente'
+	Imprimir '2. Imprimir en orden Descendente'
+	Imprimir 'Ingrese operacion'
+	Leer opcion
+	Segun opcion Hacer
+		1:
+			Para x <- 0 Hasta numero Con Paso 1 Hacer
+				Imprimir ConvertirATexto(x)
+			Fin Para
+		2:
+			Para x <- numero Hasta 0 Con Paso -1 Hacer
+				Imprimir ConvertirATexto(x)
+			Fin Para
+		De Otro Modo:
+			Imprimir 'Opcion erronea D:'
+	Fin Segun
+FinAlgoritmo
+
+```
+
+**ENTRADA  Y SALIDA**
+
+### ASCENDENTE
+
+![ascendente](https://user-images.githubusercontent.com/78062925/206829244-40b367b5-9bc5-4fde-9505-9e052bd674c7.png)
+
+### DESCENDENTE
+
+![descen](https://user-images.githubusercontent.com/78062925/206829245-cfc7e50a-3de3-4611-8976-2ce1dcc46aea.png)
+
+
+
+**Greetings**
