@@ -195,3 +195,27 @@ FinAlgoritmo
 **Calcular longitud de texto**
 
 ![n3](https://user-images.githubusercontent.com/78062925/206828272-b0b6e841-af34-4de9-b4fd-4adeee3aafb6.png)
+
+# MIÉRCOLES 07 DE DICIEMBRE DE 2022
+
+**Multiplication Tables**
+
+
+```python
+Algoritmo multip
+	Imprimir '! ! ! ! TABLA MULTIPLICACION ! ! ! !'
+	Imprimir 'Tabla que desee calcular:'
+	Leer tabla
+	Imprimir '*w* Tabla de ' + ConvertirATexto(tabla) + ' *w*'
+	iterador <- 1 
+	Mientras iterador <= 10 Hacer
+		Imprimir ConvertirATexto(tabla) ' X  ' + ConvertirATexto(iterador) + ' = ' ConvertirATexto(tabla * iterador) 
+		iterador <- iterador + 1
+	Fin Mientras
+FinAlgoritmo
+```
+
+**ENTRADA  Y SALIDA**
+
+![multi](https://user-images.githubusercontent.com/78062925/206828585-1c91d9dd-21dc-4374-b9d1-ef840c5ad443.png)
+
