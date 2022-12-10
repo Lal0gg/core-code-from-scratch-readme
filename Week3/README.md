@@ -219,3 +219,44 @@ FinAlgoritmo
 
 ![multi](https://user-images.githubusercontent.com/78062925/206828585-1c91d9dd-21dc-4374-b9d1-ef840c5ad443.png)
 
+**Simple Calculator with Do While*
+
+```python
+Algoritmo calcu
+	Imprimir '! ! ! ! ! CALCULADORA SIMPLE ! ! ! ! !'
+	Repetir 
+		Imprimir 'Ingrese  el primer numero'
+		Leer n1
+		Imprimir 'Ingrese el segundo numero'
+		Leer n2
+		Imprimir 'Ingrese una operación: +,-,*,/'
+		Leer op
+		Si op == '+' | op == '-' | op == '*' | op == '/' Entonces
+			Imprimir 'Procesando: ' + ConvertirATexto(n1) + ' ' + op + ' ' + ConvertirATexto(n2)
+			Segun op Hacer
+				'+':
+					Imprimir 'Resultado: ' + ConvertirATexto(n1 + n2)
+				'-':
+					Imprimir 'Resultado: ' + ConvertirATexto(n1 - n2)
+				'*':
+					Imprimir 'Resultado: ' + ConvertirATexto(n1 * n2)
+				'/':
+					Imprimir 'Resultado: ' + ConvertirATexto(n1 / n2)
+			Fin Segun
+		SiNo
+			Imprimir 'Operación no aceptada :S'
+		FinSi
+		
+		Imprimir '¿Deseas continuar con otra operacion ? Si / No'
+		Leer continuar
+	Hasta Que continuar == 'No' | continuar == 'no'
+FinAlgoritmo
+
+```
+
+**ENTRADA  Y SALIDA**
+
+![dowh](https://user-images.githubusercontent.com/78062925/206828872-3e5bc142-e8fe-4c02-ad02-aa5d797f3d13.png)
+
+
+
