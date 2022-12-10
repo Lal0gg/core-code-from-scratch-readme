@@ -99,48 +99,36 @@ FinAlgoritmo
 ### Pseudocódigo
 ```python
 
-Algoritmo calculadora
-	Definir suma Como Caracter
-	Definir resta Como Caracter
-	Definir division Como Caracter
-	Definir multi Como Caracter
-	Definir n1 Como Real
-	Definir n2 Como Real
-	Definir res Como Real
-	Definir op Como Caracter
-	Escribir "Ingrese el primer numero"
+Algoritmo simpleCalcSegun
+	Imprimir '======= Simple Calculator ======='
+	Imprimir 'Ingrese primer numero'
 	Leer n1
-	Escribir "Ingrese el segundo numero"
+	Imprimir 'Ingrese segundo numero'
 	Leer n2
-	Escribir "¿Que opción desea realizar? ( +, * , - , /)"
+	Imprimir 'Ingrese una operación: +,-,*,/'
 	Leer op
-	Si op == "+" Entonces
-		res = n1+n2
-		Escribir "El resultado de " , n1 ," + ", n2 ," = ", res
-	SiNo 
-		Si op == "-" Entonces
-			res = n1-n2
-			Escribir "El resultado de " , n1 ," - ", n2 ," = ", res
-		SiNo
-			Si op == "*" Entonces
-				res = n1*n2
-				Escribir "El resultado de " , n1 ," x ", n2 ," = ", res
-			SiNo
-				Si op == "/" Entonces
-					res = n1/n2
-					Escribir "El resultado de " , n1 ," / ", n2 ," = ", res
-				SiNo
-					Escribir "Ingrese una operación Correcta"
-				Fin Si
-			Fin Si
-		Fin Si
-	Fin Si
+	Si op == '+' | op == '-' | op == '*' | op == '/' Entonces
+		Imprimir 'Procesando: ' + ConvertirATexto(n1) + ' ' + op + ' ' + ConvertirATexto(n2)
+		Segun op Hacer
+			'+':
+				Imprimir 'Resultado: ' + ConvertirATexto(n1 + n2)
+			'-':
+				Imprimir 'Resultado: ' + ConvertirATexto(n1 - n2)
+			'*':
+				Imprimir 'Resultado: ' + ConvertirATexto(n1 * n2)
+			'/':
+				Imprimir 'Resultado: ' + ConvertirATexto(n1 / n2)
+		Fin Segun
+	SiNo
+		Imprimir '⚠️ La operación no es valida'
+	FinSi
 FinAlgoritmo
 
 ```
 
 **INCORRECT**
-![df](https://user-images.githubusercontent.com/78062925/206827765-8be55574-3aa4-4b35-bdfa-5bacc96e2add.png)
+
+![a](https://user-images.githubusercontent.com/78062925/206828034-89b49648-3ffe-4fb6-b81a-dbc6cde71609.png)
 
 
 
