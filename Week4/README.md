@@ -40,5 +40,34 @@ FinAlgoritmo
 #### CON 15% DE DESCUENTO
 ![2](https://user-images.githubusercontent.com/78062925/207214243-7003e9c3-f8ea-4973-98dc-bd6358fad335.png)
 
+**Even or odd**
 
+```python
+Algoritmo evenordd
+	Repetir
+		Escribir "Ingrese un número del 1-50"
+		Leer numgg
+		Si numgg < 1  | numgg > 50 Entonces
+			Imprimir  "Número incorrecto"
+		Fin Si
+	Mientras Que numgg < 1  | numgg > 50
+	pargg = numgg%2=0
+	Para x=1 Hasta numgg Con Paso 1 Hacer
+		Si x%2=0 & pargg Entonces
+			Escribir x
+		Fin Si
+		SI x % 2 = 1 & ~(pargg) Entonces
+			Imprimir x
+		FinSi
+	Fin Para
+FinAlgoritmo
+```
+
+#### Entrada y Salida
+
+![n1](https://user-images.githubusercontent.com/78062925/207220349-c24b15de-218a-4d44-858d-e03ec306c6dd.png)
+
+![n2](https://user-images.githubusercontent.com/78062925/207220350-235c9213-953a-4a64-a1a6-44799f7150d6.png)
+
+![n3](https://user-images.githubusercontent.com/78062925/207220351-d347bab0-0083-4952-ab3c-7bd67fce98d8.png)
 
