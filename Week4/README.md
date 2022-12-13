@@ -21,7 +21,7 @@ Algoritmo average
 	FinPara
 	Imprimir "t", acum
 	Imprimir "cont", venta
-	Si contador>5 Entonces
+	Si contador>6 Entonces
 		total = acum *0.15
 	SiNo
 		total = acum *0.10
@@ -32,3 +32,13 @@ Algoritmo average
 	Imprimir "El descuento es de: ", total
 FinAlgoritmo
 ```
+#### CON 10% DE DESCUENTO 
+
+![1](https://user-images.githubusercontent.com/78062925/207214241-4436482a-dc21-4bd9-867d-94cddea94cd3.png)
+
+
+#### CON 15% DE DESCUENTO
+![2](https://user-images.githubusercontent.com/78062925/207214243-7003e9c3-f8ea-4973-98dc-bd6358fad335.png)
+
+
+
