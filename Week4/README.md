@@ -110,8 +110,15 @@ FinAlgoritmo
 
 
 **Full Name**
+
 ![name0](https://user-images.githubusercontent.com/78062925/208342375-c9302a5c-697b-42a3-828f-84f6fa9c0c7f.png)
 
 ![name1](https://user-images.githubusercontent.com/78062925/208342377-4da0bebf-d54d-44b5-b423-97c40ba702c5.png)
 
+
+**Throw dice**
+
+![dados0](https://user-images.githubusercontent.com/78062925/208342855-d110f55e-f56f-49b8-9f7b-dfd3dd7afeb5.png)
+
+![dados1](https://user-images.githubusercontent.com/78062925/208342856-cc7d395b-bcf1-469a-8023-fb7f55ffc733.png)
 
