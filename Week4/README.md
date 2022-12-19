@@ -122,3 +122,11 @@ FinAlgoritmo
 
 ![dados1](https://user-images.githubusercontent.com/78062925/208342856-cc7d395b-bcf1-469a-8023-fb7f55ffc733.png)
 
+
+# MIÉRCOLES 14 DE DICIEMBRE DE 2022
+
+
+![num](https://user-images.githubusercontent.com/78062925/208343982-66db4197-5c76-4deb-81d9-99aaf8b5a470.png)
+
+![num1](https://user-images.githubusercontent.com/78062925/208343983-e8353265-5e8a-49c7-b530-1f6a9588f266.png)
+
