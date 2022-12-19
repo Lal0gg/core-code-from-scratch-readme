@@ -125,8 +125,16 @@ FinAlgoritmo
 
 # MIÉRCOLES 14 DE DICIEMBRE DE 2022
 
+**Distance to zero**
 
 ![num](https://user-images.githubusercontent.com/78062925/208343982-66db4197-5c76-4deb-81d9-99aaf8b5a470.png)
 
 ![num1](https://user-images.githubusercontent.com/78062925/208343983-e8353265-5e8a-49c7-b530-1f6a9588f266.png)
+
+**Toss coin**
+
+![game0](https://user-images.githubusercontent.com/78062925/208346014-3552cd93-a28e-42a2-b672-3646ef995e32.png)
+
+![game1](https://user-images.githubusercontent.com/78062925/208346015-436e71e0-9036-454c-b98b-d0615d6911af.png)
+
 
