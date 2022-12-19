@@ -74,6 +74,8 @@ FinAlgoritmo
 
 # MARTES 13 DE DICIEMBRE DE 2022
 
+**Predefined functions**
+
 ![abs0](https://user-images.githubusercontent.com/78062925/208341402-575b234c-bb05-44ed-9273-57a40d4717f1.png)
 
 ![abs1](https://user-images.githubusercontent.com/78062925/208341400-e11e4ff2-fcef-4278-9336-3cc1bdae0f8d.png)
@@ -105,5 +107,11 @@ FinAlgoritmo
 ![sub0](https://user-images.githubusercontent.com/78062925/208341630-0408dd5f-58f8-4f86-844d-dc99da80f014.png)
 
 ![sub1](https://user-images.githubusercontent.com/78062925/208341632-d7f61dde-8c11-4b71-881a-63688526f343.png)
+
+
+**Full Name**
+![name0](https://user-images.githubusercontent.com/78062925/208342375-c9302a5c-697b-42a3-828f-84f6fa9c0c7f.png)
+
+![name1](https://user-images.githubusercontent.com/78062925/208342377-4da0bebf-d54d-44b5-b423-97c40ba702c5.png)
 
 
