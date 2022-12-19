@@ -137,4 +137,22 @@ FinAlgoritmo
 
 ![game1](https://user-images.githubusercontent.com/78062925/208346015-436e71e0-9036-454c-b98b-d0615d6911af.png)
 
+# JUEVES 15 DE DICIEMBRE DE 2022
+
+**Structure of a function**
+
+![funct ion0](https://user-images.githubusercontent.com/78062925/208346663-cb39b07e-b823-4296-9b72-ba01804fec06.png)
+
+![function1](https://user-images.githubusercontent.com/78062925/208346665-ffa3be78-4e0a-4d7c-9927-556355fb799b.png)
+
+
+
+**Total price**
+
+
+
+
+**Reverse direction and size**
+
+
 
