@@ -149,6 +149,18 @@ FinAlgoritmo
 
 **Total price**
 
+![iva](https://user-images.githubusercontent.com/78062925/208348959-89fa468a-3f47-4342-b6e4-1aa88a438466.png)
+
+**con descuento**
+
+![iva1](https://user-images.githubusercontent.com/78062925/208348961-bec4112e-d885-4aec-9c3a-b4c63bf22db2.png)
+
+**sin descuento**
+
+![iva2](https://user-images.githubusercontent.com/78062925/208348962-ab29fe19-84f1-4849-b3ee-ffb9767f2141.png)
+
+
+
 
 
 
