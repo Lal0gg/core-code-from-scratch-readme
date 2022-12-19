@@ -71,3 +71,39 @@ FinAlgoritmo
 
 ![n3](https://user-images.githubusercontent.com/78062925/207220351-d347bab0-0083-4952-ab3c-7bd67fce98d8.png)
 
+
+# MARTES 13 DE DICIEMBRE DE 2022
+
+![abs0](https://user-images.githubusercontent.com/78062925/208341402-575b234c-bb05-44ed-9273-57a40d4717f1.png)
+
+![abs1](https://user-images.githubusercontent.com/78062925/208341400-e11e4ff2-fcef-4278-9336-3cc1bdae0f8d.png)
+
+![trunc0](https://user-images.githubusercontent.com/78062925/208341422-664e22f8-3aaf-472c-b54c-a3d158151112.png)
+
+![trunc1](https://user-images.githubusercontent.com/78062925/208341423-acdc0090-d3fd-420f-8027-813e02f3334b.png)
+
+![redon0](https://user-images.githubusercontent.com/78062925/208341447-d8c32516-9578-43d3-8a36-b67829b708cc.png)
+
+![redon1](https://user-images.githubusercontent.com/78062925/208341449-3b7fed90-8db0-4d94-8beb-1fae80316cb4.png)
+
+![azar0](https://user-images.githubusercontent.com/78062925/208341505-d0ab83b4-e89a-4b2e-aeb7-363df71e32c5.png)
+
+![azar1](https://user-images.githubusercontent.com/78062925/208341506-e1b60880-bd91-465d-99b6-f0c970d95f47.png)
+
+![longitud1](https://user-images.githubusercontent.com/78062925/208341515-5bbe3e87-e710-4236-815b-b6394a7571b0.png)
+
+![longitud](https://user-images.githubusercontent.com/78062925/208341516-755d523c-312e-4035-a7e9-335a6d24e3a6.png)
+
+![mayus0](https://user-images.githubusercontent.com/78062925/208341558-4e2f4059-0385-4ab5-98d8-fb48368a3cdf.png)
+
+![mayus1](https://user-images.githubusercontent.com/78062925/208341559-a4eac9e1-d9df-42b8-934a-4f5b2213db8e.png)
+
+![min0](https://user-images.githubusercontent.com/78062925/208341584-b50bfa8f-6916-41b9-b9b3-60551a67e936.png)
+
+![min1](https://user-images.githubusercontent.com/78062925/208341586-544d66ba-0b58-4816-b32e-a4fb126dcd0b.png)
+
+![sub0](https://user-images.githubusercontent.com/78062925/208341630-0408dd5f-58f8-4f86-844d-dc99da80f014.png)
+
+![sub1](https://user-images.githubusercontent.com/78062925/208341632-d7f61dde-8c11-4b71-881a-63688526f343.png)
+
+
