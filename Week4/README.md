@@ -161,10 +161,14 @@ FinAlgoritmo
 
 
 
-
-
-
 **Reverse direction and size**
+
+
+
+
+![reverse0](https://user-images.githubusercontent.com/78062925/208356762-e51bde30-ea91-4852-93ca-4deb599a0cfe.png)
+
+![reverse1](https://user-images.githubusercontent.com/78062925/208356764-44c82fb7-50d3-4003-886e-87f225b5e62f.png)
 
 
 
