@@ -7,4 +7,4 @@ Acá están los desafíos dividios por semana que se han realizado en el bootcam
 - Week 2: [Pseoudocode](https://github.com/Lal0gg/core-code-from-scratch-readme/tree/main/Week2)
 - Week 3: [Pseoudocode](https://github.com/Lal0gg/core-code-from-scratch-readme/tree/main/Week3)
 - Week 4: [Pseoudocode](https://github.com/Lal0gg/core-code-from-scratch-readme/tree/main/Week4)
-- Week 5: [Pseoudocode](https://github.com/Lal0gg/core-code-from-scratch-readme/tree/main/Week5)
+- Week 5: [Pseudocode & Introduction to Javascript](https://github.com/Lal0gg/core-code-from-scratch-readme/tree/main/Week5)
