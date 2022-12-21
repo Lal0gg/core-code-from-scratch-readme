@@ -1,4 +1,4 @@
-# LUNES 20 DE DICIEMBRE DE 2022
+# LUNES 19 DE DICIEMBRE DE 2022
 
 **Time Converter**
 
@@ -15,4 +15,16 @@
 ![neg1](https://user-images.githubusercontent.com/78062925/208605735-25cdebcc-60ad-4de9-9b6f-8380669fafd1.png)
 
 ![neg2](https://user-images.githubusercontent.com/78062925/208605736-04f2d1bd-b42a-41b1-978c-3b1440468e16.png)
+
+
+# MARTES 20 DE DICIEMBRE DE 2022
+
+**Sum of pairs**
+
+![sum0](https://user-images.githubusercontent.com/78062925/208825852-1d508c86-b3fe-454b-9c45-e5660ed6b4e2.png)
+
+![sum1](https://user-images.githubusercontent.com/78062925/208825854-a449ea85-45cf-47c9-a763-13833ef114f2.png)
+
+**Mid Point**
+
 
