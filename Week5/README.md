@@ -34,3 +34,8 @@
 
 ![prom2](https://user-images.githubusercontent.com/78062925/208827515-bf06b299-16bf-405d-9f02-5af7e9bc68a8.png)
 
+
+# MIÉRCOLES 21 DE DICIEMBRE DE 2022
+
+**Cashier**
+
