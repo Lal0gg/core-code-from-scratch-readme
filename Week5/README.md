@@ -51,4 +51,16 @@
 ![weather1](https://user-images.githubusercontent.com/78062925/210924718-abb8d7d9-dc9e-4ae9-97d8-b783f8cc77c2.png)
 
 
+# JUEVES 22 DE DICIEMBRE DE 2022
+
+###IF
+![IF](https://user-images.githubusercontent.com/78062925/210931186-4bfcfe60-6718-4da0-9370-50db18b803eb.png)
+
+###WHILE
+![while](https://user-images.githubusercontent.com/78062925/210931188-15e80846-780b-4876-a32b-2cbdd9c50cea.png)
+
+###FOR
+![for](https://user-images.githubusercontent.com/78062925/210931189-16acc49d-ca6d-4ab3-a697-720d1a4662db.png)
+
+
 
