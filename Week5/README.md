@@ -39,3 +39,16 @@
 
 **Cashier**
 
+![cashier](https://user-images.githubusercontent.com/78062925/210924168-eac9e551-1302-48a6-8fd7-82e53525c6a0.png)
+
+![cashier1](https://user-images.githubusercontent.com/78062925/210924169-98a52cfa-c2e5-4a27-8703-d44736c65c5e.png)
+
+**Weather average**
+
+
+![weather](https://user-images.githubusercontent.com/78062925/210924716-17379130-9eaf-4e04-bcfa-88fdc8df6b91.png)
+
+![weather1](https://user-images.githubusercontent.com/78062925/210924718-abb8d7d9-dc9e-4ae9-97d8-b783f8cc77c2.png)
+
+
+
