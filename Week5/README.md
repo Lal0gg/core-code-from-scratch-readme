@@ -53,13 +53,13 @@
 
 # JUEVES 22 DE DICIEMBRE DE 2022
 
-###IF
+### IF
 ![IF](https://user-images.githubusercontent.com/78062925/210931186-4bfcfe60-6718-4da0-9370-50db18b803eb.png)
 
-###WHILE
+### WHILE
 ![while](https://user-images.githubusercontent.com/78062925/210931188-15e80846-780b-4876-a32b-2cbdd9c50cea.png)
 
-###FOR
+### FOR
 ![for](https://user-images.githubusercontent.com/78062925/210931189-16acc49d-ca6d-4ab3-a697-720d1a4662db.png)
 
 
