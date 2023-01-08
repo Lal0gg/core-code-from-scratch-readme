@@ -57,7 +57,7 @@
 
 ![image](https://user-images.githubusercontent.com/78062925/211179104-1f61fd07-e02b-49fa-be3a-330e2795d2b1.png)
 
-
+**JavaScript Hero "String: trim()"**
 
 
 
