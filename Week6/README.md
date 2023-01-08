@@ -1,4 +1,4 @@
-# MARTES 03 DE ENERO DE 2023
+# CHALLENGES WEEK 6
 
 **JavaScript Hero "Variables"**
 ![image](https://user-images.githubusercontent.com/78062925/211178276-ddf314b9-3c13-405d-83c4-e5234f8c2587.png)
