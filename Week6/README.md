@@ -37,4 +37,27 @@
 
 ![image](https://user-images.githubusercontent.com/78062925/211178720-3bc6fe83-9458-4b83-b003-466f158634f2.png)
 
+![image](https://user-images.githubusercontent.com/78062925/211178868-9bab1e30-7a1c-4b4d-984c-6b019332df2b.png)
+
+![image](https://user-images.githubusercontent.com/78062925/211178888-b94685cb-63b8-49e5-a611-b0d6143f0014.png)
+
+**JavaScript Hero "Playground"**
+
+![image](https://user-images.githubusercontent.com/78062925/211178946-82e3a142-594e-46bb-8bb0-e5df134ab09b.png)
+
+**JavaScript Hero "String: length"**
+
+![image](https://user-images.githubusercontent.com/78062925/211179002-bfdb6cb2-4579-4638-b212-a66d3eba5591.png)
+
+**JavaScript Hero "String: toUpperCase()"**
+
+![image](https://user-images.githubusercontent.com/78062925/211179061-85e261ec-aca5-4376-8439-fdd6c32ff75d.png)
+
+**JavaScript Hero "String: charAt()"**
+
+![image](https://user-images.githubusercontent.com/78062925/211179104-1f61fd07-e02b-49fa-be3a-330e2795d2b1.png)
+
+
+
+
 
