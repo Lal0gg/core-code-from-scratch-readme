@@ -59,5 +59,24 @@
 
 **JavaScript Hero "String: trim()"**
 
+![image](https://user-images.githubusercontent.com/78062925/211179532-9d23982b-a71b-4e3e-aff1-2302e868a884.png)
+
+**JavaScript Hero "String: indexOf()"**
+
+![image](https://user-images.githubusercontent.com/78062925/211179637-83fed82f-f818-4b27-9bbc-703387eaf2ae.png)
+
+**JavaScript Hero "String: indexOf() with from index"**
+
+![image](https://user-images.githubusercontent.com/78062925/211179677-acd8f718-1f3b-441f-8c2e-532113d5ee10.png)
+
+**JavaScript Hero "String: substr()"**
+
+![image](https://user-images.githubusercontent.com/78062925/211179709-059032c2-9b6d-47ae-8619-922e04ed8993.png)
+
+**JavaScript Hero "String: replace()"**
+
+
+
+
 
 
