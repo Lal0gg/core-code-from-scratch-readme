@@ -75,6 +75,8 @@
 
 **JavaScript Hero "String: replace()"**
 
+![image](https://user-images.githubusercontent.com/78062925/211179801-748ed37b-7096-4a4c-8aab-542d347edcdb.png)
+
 
 
 
