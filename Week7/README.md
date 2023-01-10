@@ -21,21 +21,21 @@ normalize('20-05-2017')
 ```
 **Increment**
 
-#### Excercise
+##### Excercise
 ```javascript
 let x = 3;
 x++;
 x = x * 2;
 x--;
 ```
-#### Answer
+##### Answer
 ```javascript
 x = 7
 ```
 
 **Fahrenheit**
 
-#### Excercise
+##### Excercise
 ```javascript
 function toFahrenheit(a){
 b = (a * 1.8) +32;
@@ -43,14 +43,14 @@ return b
 }
 ```
 
-#### Answer
+##### Answer
 ```javascript
 toFahrenheit(0)
 32
 ```
 
 **Boolean**
-#### Excercise
+##### Excercise
 ```javascript
 function nand(a,b){
 let and = a && b
@@ -58,28 +58,28 @@ return !and
 }
 ```
 
-#### Answer
+##### Answer
 ```javascript
 nand(true,true)
 false
 ```
 
 
-#### Answer
+##### Answer
 ```javascript
 nand(false, true)
 true
 ```
 
 
-#### Answer
+##### Answer
 ```javascript
 nand(true, false)
 true
 ```
 
 
-#### Answer
+##### Answer
 ```javascript
 nand(false,false)
 true
