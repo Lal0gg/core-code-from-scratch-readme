@@ -114,9 +114,9 @@ animal(animal3);
 ```
 
 ##### Screen Verification
-![Captura de pantalla 2023-01-11 181738](Week7\Captura de pantalla 2023-01-11 181738.png)
+![Captura de pantalla 2023-01-11 181738!](Week7\Captura de pantalla 2023-01-11 181738.png)
 
-![Captura de pantalla 2023-01-11 182008](Week7\Captura de pantalla 2023-01-11 182008.png)
+![Captura de pantalla 2023-01-11 182008!](Week7\Captura de pantalla 2023-01-11 182008.png)
 
 
 **Return to Sanity**
@@ -129,7 +129,7 @@ function mystery() {
 }
 ```
 ##### Screen Verification
-![Captura de pantalla 2023-01-11 183128](Week7\Captura de pantalla 2023-01-11 183128.png)
+![Captura de pantalla 2023-01-11 183128!](Week7\Captura de pantalla 2023-01-11 183128.png)
 
 **Object syntax debug**
 ##### Excercise
@@ -153,5 +153,5 @@ var rooms = {
 ```
 ##### Screen Verification
 ```
-![Captura de pantalla 2023-01-11 184121](Week7\Captura de pantalla 2023-01-11 184151.png)
+![Captura de pantalla 2023-01-11 184121!](Week7\Captura de pantalla 2023-01-11 184151.png)
 ```
