@@ -114,9 +114,9 @@ animal(animal3);
 ```
 
 ##### Screen Verification
-![Captura de pantalla 2023-01-11 181738!](Week7\Captura de pantalla 2023-01-11 181738.png)
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/3c1df6d5fabacd26d813ee25221f87fb298ac233/Week7/Captura%20de%20pantalla%202023-01-11%20181738.png)
 
-![Captura de pantalla 2023-01-11 182008!](Week7\Captura de pantalla 2023-01-11 182008.png)
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/3c1df6d5fabacd26d813ee25221f87fb298ac233/Week7/Captura%20de%20pantalla%202023-01-11%20182008.png)
 
 
 **Return to Sanity**
@@ -129,7 +129,7 @@ function mystery() {
 }
 ```
 ##### Screen Verification
-![Captura de pantalla 2023-01-11 183128!](Week7\Captura de pantalla 2023-01-11 183128.png)
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/3c1df6d5fabacd26d813ee25221f87fb298ac233/Week7/Captura%20de%20pantalla%202023-01-11%20183128.png)
 
 **Object syntax debug**
 ##### Excercise
@@ -152,6 +152,5 @@ var rooms = {
     }
 ```
 ##### Screen Verification
-```
-![Captura de pantalla 2023-01-11 184121!](Week7\Captura de pantalla 2023-01-11 184151.png)
-```
+
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/3c1df6d5fabacd26d813ee25221f87fb298ac233/Week7/Captura%20de%20pantalla%202023-01-11%20184121.png)
