@@ -236,5 +236,5 @@ function Ship(draft, crew) {
   };
 }
 ```
-
+##### Screen Verification
 ![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week7/Captura%20de%20pantalla%202023-01-11%20215617.png)
