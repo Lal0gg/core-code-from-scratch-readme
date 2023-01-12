@@ -85,7 +85,7 @@ nand(false,false)
 true
 ```
 
-# MARTES 11 DE ENERO DE 2023
+# MARTES 10 DE ENERO DE 2023
 
 **Objects**
 
@@ -154,3 +154,87 @@ var rooms = {
 ##### Screen Verification
 
 ![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/3c1df6d5fabacd26d813ee25221f87fb298ac233/Week7/Captura%20de%20pantalla%202023-01-11%20184121.png)
+
+
+# MIERCOLES 11 DE ENERO DE 2023
+
+**Count strings in objects**
+
+##### Excercise
+```javascript
+function strCount(obj) {
+  let cont = 0;
+  for (let x in obj){
+    if(typeof obj[x] == 'string'){
+    cont++;
+    }else if(typeof obj[x] == 'object') {
+      cont += strCount(obj[x])
+
+    }
+  }
+  return cont;
+}
+```
+##### Input
+```javascript
+strCount({
+  first: "1",
+  second: "2",
+  third: false,
+  fourth: ["anytime", 2, 3, 4],
+  fifth: null,
+});
+```
+##### Output
+```javascript
+3
+```
+
+##### Screen Verification
+
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week7/Captura%20de%20pantalla%202023-01-11%20202614.png)
+
+
+**Extending JavaScript Objects: Get First & Last Array Element**
+
+##### Excercise
+```javascript
+Array.prototype.first = function(){
+  if(this.length == 0){
+    return undefined;
+  }else{
+    const copy = [...this];
+    return copy[0];
+  }
+};
+
+
+Array.prototype.last = function(){
+  if(this.length == 0){
+    return undefined;
+  }else{
+    const copy = [...this];
+    return copy[copy.length-1];
+  }
+};
+```
+##### Screen Verification
+
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week7/Captura%20de%20pantalla%202023-01-11%20214410.png)
+
+
+
+**Object Oriented Piracy**
+
+##### Excercise
+```javascript
+function Ship(draft, crew) {
+  this.draft = draft;
+  this.crew = crew;
+  this.isWorthIt = function () {
+    return this.draft - this.crew * 1.5 > 20;
+  };
+}
+```
+
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week7/Captura%20de%20pantalla%202023-01-11%20215617.png)
