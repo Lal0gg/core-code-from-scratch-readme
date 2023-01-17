@@ -238,3 +238,67 @@ function Ship(draft, crew) {
 ```
 ##### Screen Verification
 ![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week7/Captura%20de%20pantalla%202023-01-11%20215617.png)
+
+# JUEVES 12 DE ENERO DE 2023
+
+**Convert a String to a Number!**
+##### Excercise
+```javascript
+const stringToNumber = function(str){
+  return Number(str);
+}
+```
+
+##### Screen Verification
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week7/Captura%20de%20pantalla%202023-01-16%20185530.png)
+
+
+
+**Convert number to reversed array of digits**
+##### Excercise
+```javascript
+function digitize(n) {
+  return String(n).split('').reverse().map(Number);
+}
+```
+
+##### Screen Verification
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week7/Captura%20de%20pantalla%202023-01-16%20185834.png)
+
+
+
+**Truthy and Falsy**
+##### Excercise
+```javascript
+const truthy = [true, 1, "false", 5, {}];
+const falsy = [false, 0, "", null, undefined];
+```
+
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week7/Captura%20de%20pantalla%202023-01-16%20190138.png)
+
+
+**Training JS #4: Basic data types--Array**
+##### Excercise
+```javascript
+function getLength(arr){
+  return arr.length;
+}
+function getFirst(arr){
+  return arr[0];
+}
+function getLast(arr){
+  return arr[arr.length - 1];
+}
+function pushElement(arr){
+  var el=1;
+  arr.push(el);
+  
+  return arr;
+}
+function popElement(arr){
+  arr.pop();
+  
+  return arr;
+``` 
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week7/Captura%20de%20pantalla%202023-01-16%20190320.png)
+
