@@ -86,3 +86,72 @@ function calculate(num1, operation, num2) {
 ![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-16%20195453.png)
 
 
+# MARTES 17 DE ENERO DE 2023
+
+
+
+**Even or odd**
+
+##### Excercise
+```javascript
+function evenOrOdd(number) {
+  let state;
+  if(number %2 ==0 ){
+    state = 'Even'
+    return state
+  }else{
+    state = 'Odd'
+    return state
+  }
+}
+```
+
+
+
+##### Screen Verification
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-17%20190322.png)
+
+
+**A wolf in sheep's clothing**
+
+##### Excercise
+```javascript
+function warnTheSheep(queue) {
+  const stateWolf = queue.indexOf("wolf");
+  if (stateWolf == queue.length - 1)
+    return "Pls go away and stop eating my sheep";
+  const stateSheep = queue.length - (stateWolf + 1);
+  return (
+    "Oi! Sheep number " + stateSheep + "! You are about to be eaten by a wolf!"
+  );
+}
+
+```
+
+##### Screen Verification
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-17%20203511.png)
+
+**Decode the morse code**
+
+
+##### Excercise
+```javascript
+decodeMorse = function (morseCode) {
+  let phrase = [];
+  let words = morseCode.trim().split('   ');
+  let letters = [];
+  for (let i = 0; i < words.length; i++) {
+    letters = words[i].split(' ');
+    for (let j = 0; j < letters.length; j++) {
+      letters[j] = MORSE_CODE[letters[j]];
+    }
+    phrase.push(letters.join(''));
+  }
+  return phrase.join(' ').trim();
+};
+```
+
+
+
+##### Screen Verification
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-17%20203829.png)
