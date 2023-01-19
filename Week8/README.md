@@ -151,7 +151,94 @@ decodeMorse = function (morseCode) {
 };
 ```
 
-
-
 ##### Screen Verification
 ![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-17%20203829.png)
+
+
+# MIERCOLES 18 DE ENERO DE 2023
+
+**Who likes it?**
+##### Excercise
+```javascript
+names = ["Alex", "Jacob", "Mark", "Max"];
+function likes(names) {
+  let contador = 0;
+  for (let i in names) {
+    contador++;
+  }
+  if (contador == 0) {
+    return (message = "no one likes this");
+  } else if (contador == 1) {
+    let niuname;
+    for (let x in names) {
+      niuname = names[x];
+    }
+    return niuname + " likes this";
+  } else if (contador == 2) {
+    let niuname0, niuname1;
+    for (let x in names) {
+      niuname0 = names[0];
+      niuname1 = names[1];
+    }
+    return niuname0 + " and " + niuname1 + " like this";
+  } else if (contador == 3) {
+    let niuname00, niuname11, niuname22;
+    for (let x in names) {
+      niuname00 = names[0];
+      niuname11 = names[1];
+      niuname22 = names[2];
+    }
+    return niuname00 + ", " + niuname11 + " and " + niuname22 + " like this";
+  } else if (contador > 3) {
+    let n;
+    n = contador - 2;
+    let niuname00, niuname11;
+    for (let x in names) {
+      niuname00 = names[0];
+      niuname11 = names[1];
+    }
+    return niuname00 + ", " + niuname11 + " and " + n + " others like this";
+  }
+}
+```
+##### Screen Verification
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-18%20211730.png)
+
+**Bit counting**
+##### Excercise
+```javascript
+var countBits = function(n) {
+  let niu;
+  niu= n.toString(2);
+  let contador=0;
+  for(let x in niu){
+    if(niu[x]==1){
+      contador++;
+    }
+  }
+  return contador
+}
+```
+##### Screen Verification
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-18%20213119.png--+)
+
+
+**Your order, please**
+
+##### Excercise
+```javascript
+function order(words) {
+  let array = words.split(' ');
+  let sortedArray = [];
+  for (i = 0; i <= array.length; i++) {
+    for (j = 0; j < array.length; j++) {
+      if (array[j].indexOf(i) >= 0) {
+        sortedArray.push(array[j]);
+      }
+    }
+  }
+  return sortedArray.join(' ');
+}
+```
+##### Screen Verification
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-18%20214628.png)
