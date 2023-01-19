@@ -220,7 +220,7 @@ var countBits = function(n) {
 }
 ```
 ##### Screen Verification
-![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-18%20213119.png--+)
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-18%20213119.png)
 
 
 **Your order, please**
