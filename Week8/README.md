@@ -242,3 +242,91 @@ function order(words) {
 ```
 ##### Screen Verification
 ![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-18%20214628.png)
+
+
+# JUEVES 19 DE ENERO DE 2023
+
+
+
+**Counting duplicates**
+
+##### Excercise
+```javascript
+function duplicateCount(text) {
+  let duplicates = 0;
+  text = text.toLowerCase(); // todo minuscula
+  for (let i = 0; i < text.length; i++) {
+    if (text.indexOf(text[i]) !== text.lastIndexOf(text[i])) {
+      duplicates++;
+      text = text.replace(new RegExp(text[i], 'g'), '');
+      i = i - 1;
+    }
+  }
+  return duplicates;
+}
+```
+##### Screen Verification
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-19%20220514.png)
+
+**Encrypt this!**
+
+
+##### Excercise
+```javascript
+function encrypt(word) {
+  if (word.length === 1) return word.charCodeAt(0);
+  const charBackup = word[1];
+  word = word.replace(word[0], word.charCodeAt(0));
+  word = word.replace(charBackup, word[word.length - 1]);
+  word = word.replace(/\w$/, charBackup);
+  return word;
+}
+
+var encryptThis = function (text) {
+  const textArray = text.split(' ');
+  let result = '';
+  textArray.forEach((w) => {
+    result = result + ' ' + encrypt(w);
+  });
+  return result.trim();
+};
+```
+##### Screen Verification
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-19%20221810.png)
+
+
+**Valid parentheses**
+
+##### Excercise
+```javascript
+function validParentheses(parens) {
+  let valid = 0;
+  for (let i = 0; i < parens.length; i++) {
+    if (parens[i] === ')') valid--;
+    if (parens[i] === '(') valid++;
+    if (valid < 0) return false;
+  }
+  return valid == 0;
+}
+```
+##### Screen Verification
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-19%20222822.png)
+
+**Convert string to camel case**
+
+##### Excercise
+```javascript
+function toCamelCase(str) {
+  let result = '';
+  for (let i = 0; i < str.length; i++) {
+    if (i != 0 && (str[i - 1] === '_' || str[i - 1] === '-')) {
+      result += str[i].toUpperCase();
+    } else if (str[i] != '-' && str[i] != '_') {
+      result += str[i];
+    }
+  }
+  return result;
+}
+```
+##### Screen Verification
+![image](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8/Captura%20de%20pantalla%202023-01-19%20223151.png)
