@@ -13,5 +13,5 @@ Acá están los desafíos dividios por semana que se han realizado en el bootcam
 - Week 8: [Javascript](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week8)
 - Week 9: [Javascript](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week9)
 - Week 10: [Javascript](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week10)
-- Week 12: [Javascript](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week12)
-- Week 13: [Javascript](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week13)
+- Week 12: [NodeJs](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week12)
+- Week 13: [NodeJS & DB](https://github.com/Lal0gg/core-code-from-scratch-readme/blob/main/Week13)
